@@ -1,3 +1,2 @@
 # Prueba-de-repositorio
-Repositorio de prueba 
-xd
+Voy a hacer un mini programa en Java a ver como funciona git
